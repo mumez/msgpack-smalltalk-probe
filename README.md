@@ -3,7 +3,7 @@ msgpack-smalltalk
 
 MessagePack serialization library for various Smalltalk dialects.
 
-We are moving from [Google Code site](http://code.google.com/p/messagepack-st/). Old contents are still there.
+See the official [msgpack-smalltalk](https://github.com/msgpack/) repository.
 
-Currently, we have just put a [Cypress](https://github.com/CampSmalltalk/Cypress/blob/master/README.md)-based repository for the neutral accesses from various Smalltalk dialects.
+This repository was built for testing - it would be outdated soon.
 
