@@ -1,7 +1,9 @@
 {
 	"class" : {
 		"decode:" : "mu 4/29/2011 23:40",
+		"decode:setting:" : "MasashiUmezawa 2/1/2013 23:14",
 		"decodeFrom:" : "mu 4/29/2011 23:40",
+		"decodeFrom:setting:" : "MasashiUmezawa 2/1/2013 23:14",
 		"on:" : "mu 5/15/2011 00:40",
 		"onBytes:" : "mu 4/29/2011 23:40" },
 	"instance" : {
@@ -11,7 +13,9 @@
 		"createOrderedCollection:" : "mu 4/29/2011 23:40",
 		"decode" : "mu 5/2/2011 14:15",
 		"decode:" : "mu 4/29/2011 23:40",
+		"decode:setting:" : "MasashiUmezawa 2/1/2013 23:13",
 		"decodeFrom:" : "mu 4/29/2011 23:40",
+		"decodeFrom:setting:" : "MasashiUmezawa 2/1/2013 23:13",
 		"next" : "mu 6/7/2011 17:54",
 		"read" : "mu 4/30/2011 23:43",
 		"readArray16" : "mu 4/30/2011 23:45",
