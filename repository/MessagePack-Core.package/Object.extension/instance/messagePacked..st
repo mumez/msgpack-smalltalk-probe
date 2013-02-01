@@ -1,3 +1,3 @@
 *MessagePack-Core-packing
-messagePackedSetting: settingBlock
+messagePacked: settingBlock
 	^ MpEncoder encode: self setting: settingBlock

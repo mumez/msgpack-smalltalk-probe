@@ -1,4 +1,4 @@
 accessing
 encodeMode: aSymbol
-	"#strict #unknownAsNil #unknownConverted"
+	"#strict #unknownAsNil #loose"
 	^self at: #encodeMode ifAbsentPut: aSymbol

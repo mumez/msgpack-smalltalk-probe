@@ -1,4 +1,4 @@
 accessing
 decodeMode: aSymbol
-	"#strict #unknownAsNil #unknownConverted"
+	"#strict #unknownAsNil #loose"
 	^self at: #decodeMode ifAbsentPut: aSymbol
